@@ -30,7 +30,7 @@
 ### Step 5 
 * [DATABASES mastery with python (projects)](https://www.freecoursesonline.me/lynda-advanced-python-working-with-databases/)
 
-* [Data engineer Udacity (Till chapter 4 [end of data warehouse] )](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
+* [Data engineer Udacity (Till the end of data warehouse)](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
 ### Step 6 
 
