@@ -14,8 +14,8 @@
 
 ### Step 3
 
-* Learn RDBMS [Link 1](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
-              [Link 2](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+* Learn RDBMS : [Link 1](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
+            - [Link 2](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * [Learn Linux](https://www.udemy.com/course/linux-tutorials/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-grM2QfFWOqVeKgCDDX12Fw&LSNPUBID=GjbDpcHcs4w&utm_source=aff-campaign&utm_medium=udemyads)
 
 * [Build an SFTP SSH SSL Project Front and Back-end](internship project [soon] )
@@ -34,9 +34,9 @@
 
 ### Step 6 
 
-* Data Warehouse and (ETLs , ELTs ... ) : - [Link 1](https://www.guru99.com/etl-extract-load-process.html)
+* Data Warehouse and (ETLs , ELTs ... ) : [Link 1](https://www.guru99.com/etl-extract-load-process.html)
                                           - [Link 2](https://www.guru99.com/etl-vs-elt.html)
                                           - [Link 3](https://www.youtube.com/watch?v=CHYPF7jxlik)
                                           - [Link 4](https://www.youtube.com/watch?v=J326LIUrZM8)
-* Design and Build Data warehouse : - [Link 1](https://www.youtube.com/watch?v=patBYUGwsHE)
+* Design and Build Data warehouse : [Link 1](https://www.youtube.com/watch?v=patBYUGwsHE)
                                     - [Link 2](https://www.coursera.org/learn/data-warehouse-bi-building)
