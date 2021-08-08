@@ -2,8 +2,8 @@
 
 ### Step 1 
 
-* [data engineer introduction] (https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-* [data engineer part 2] https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+* [data engineer introduction](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+* [data engineer part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 
 ### Step 2 
 
