@@ -2,8 +2,9 @@
 
 <!-- Step 1 -->
 ### Step 1 
-
-* [Data engineer introduction](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+* [Big Data](https://www.youtube.com/watch?v=bAyrObl7TYE)
+* [Data Engineer in 8 minutes](https://www.youtube.com/watch?v=vNNoNs_VeWc)
+* [Data engineer part 1](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 * [Data engineer part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 
 
