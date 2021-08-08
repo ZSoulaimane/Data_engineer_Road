@@ -14,7 +14,7 @@
 
 * Learn RDBMS : - https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm
                 - https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
-* Learn Linuw : https://www.udemy.com/course/linux-tutorials/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-grM2QfFWOqVeKgCDDX12Fw&LSNPUBID=GjbDpcHcs4w&utm_source=aff-campaign&utm_medium=udemyads
+* Learn Linuw : (https://www.udemy.com/course/linux-tutorials) https://www.udemy.com/course/linux-tutorials/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-grM2QfFWOqVeKgCDDX12Fw&LSNPUBID=GjbDpcHcs4w&utm_source=aff-campaign&utm_medium=udemyads
 
 ### Week 4 (advance)
 
